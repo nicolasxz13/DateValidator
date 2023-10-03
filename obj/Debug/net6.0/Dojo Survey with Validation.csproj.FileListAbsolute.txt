@@ -1,0 +1,28 @@
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\bin\Debug\net6.0\appsettings.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\bin\Debug\net6.0\Dojo Survey with Validation.staticwebassets.runtime.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\bin\Debug\net6.0\Dojo Survey with Validation.exe
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\bin\Debug\net6.0\Dojo Survey with Validation.deps.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\bin\Debug\net6.0\Dojo Survey with Validation.runtimeconfig.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\bin\Debug\net6.0\Dojo Survey with Validation.dll
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\bin\Debug\net6.0\Dojo Survey with Validation.pdb
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\obj\Debug\net6.0\Dojo Survey with Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\obj\Debug\net6.0\Dojo Survey with Validation.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\obj\Debug\net6.0\Dojo Survey with Validation.AssemblyInfo.cs
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\obj\Debug\net6.0\Dojo Survey with Validation.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\obj\Debug\net6.0\Dojo Survey with Validation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\obj\Debug\net6.0\Dojo Survey with Validation.RazorAssemblyInfo.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\obj\Debug\net6.0\Dojo Survey with Validation.RazorAssemblyInfo.cs
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\obj\Debug\net6.0\staticwebassets\msbuild.Dojo Survey with Validation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\obj\Debug\net6.0\staticwebassets\msbuild.build.Dojo Survey with Validation.props
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Dojo Survey with Validation.props
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Dojo Survey with Validation.props
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\obj\Debug\net6.0\scopedcss\bundle\Dojo Survey with Validation.styles.css
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\obj\Debug\net6.0\Dojo Survey with Validation.dll
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\obj\Debug\net6.0\refint\Dojo Survey with Validation.dll
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\obj\Debug\net6.0\Dojo Survey with Validation.pdb
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\obj\Debug\net6.0\Dojo Survey with Validation.genruntimeconfig.cache
+C:\Users\nicol\Desktop\Bootcamp Coding Dojo c#\ASP.NET Core\Dojo Survey with Validation\obj\Debug\net6.0\ref\Dojo Survey with Validation.dll

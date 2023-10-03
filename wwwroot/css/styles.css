@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10em;
+
+}
+
+.container .data {
+    width: 25em;
+    padding: 3em;
+    border: 1px solid black;
+    box-shadow: 5px 3px black;
+}
+
+.container form {
+    width: 25em;
+    padding: 3em;
+    border: 1px solid black;
+    box-shadow: 5px 3px black;
+}
+
+
+
+.blocks {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1em;
+}
+
+.blocks span {
+    color: red;
+}
+
+.container form :last-child {
+    justify-content: end;
+}
+
+.container .data :last-child {
+    justify-content: end;
+    overflow-wrap: break-word;
+}
+
+.blocks select {
+    width: 11.6em;
+}
+
+.blockstextarea {
+    flex-direction: column;
+}
+
+.blockstextarea textarea {
+    margin-top: 1em;
+}
+
+.blockstextarea :last-child {
+    margin-top: 1em;
+    border: 1px dotted black;
+    padding: 0.5em;
+}
+
+.btn1 {
+    height: 3.5em;
+    width: 9em;
+    border: 2px solid black;
+    box-shadow: 5px 5px black;
+    background-color: #2b78e4;
+    color: white;
+}
+
+.btn1:active {
+    /* X, Y, blur, color*/
+    box-shadow: 2px 2px 2px black;
+    transform: translateZ(5px);
+    align-items: center;
+}

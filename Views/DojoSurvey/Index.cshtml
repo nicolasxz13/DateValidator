@@ -1,0 +1,54 @@
+@using DateValidator.Models
+@model Survey
+@{
+    ViewData["Title"] = "Dojo Survey Index";
+}
+
+<form asp-action="Result" asp-controller="DojoSurvey" method="post">
+    <div class="blocks">
+        <label asp-for="Name">Your Name</label>
+        <input asp-for="Name"></input>
+
+    </div>
+    <div class="blocks">
+        <span asp-validation-for="Name"></span>
+    </div>
+    <div class="blocks">
+        <label asp-for="Location">Dojo Location</label>
+        <select asp-for="Location">
+            <option>San Jose</option>
+            <option>San Pedro</option>
+        </select>
+    </div>
+    <div class="blocks">
+        <span asp-validation-for="Location"></span>
+    </div>
+    <div class="blocks">
+        <label asp-for="Favorite">Favorite Language</label>
+        <select asp-for="Favorite">
+            <option>C#</option>
+            <option>C++</option>
+            <option>C</option>
+        </select>
+    </div>
+    <div class="blocks">
+        <span asp-validation-for="Favorite"></span>
+    </div>
+    <div class="blocks">
+        <label asp-for="RegisterDateTime">Register Date Time</label>
+        <input asp-for="RegisterDateTime">
+    </div>
+    <div class="blocks">
+        <span asp-validation-for="RegisterDateTime"></span>
+    </div>
+    <div class="blocks blockstextarea">
+        <label for="comment">Comment:</label>
+        <textarea asp-for="Comment"></textarea>
+    </div>
+    <div class="blocks">
+        <span asp-validation-for=" Comment"></span>
+    </div>
+    <div class="blocks">
+        <button type="submit" class="btn1">Submit</button>
+    </div>
+</form>

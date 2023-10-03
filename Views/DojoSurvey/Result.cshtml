@@ -1,0 +1,32 @@
+@using DateValidator.Models
+@model Survey
+@{
+    ViewData["Title"] = "Dojo Survey Result";
+}
+
+<div class="data">
+    <h1>Submited Info</h1>
+    <div class="blocks">
+        <p>Name</p>
+        <p id="name">@Model.Name</p>
+    </div>
+    <div class="blocks">
+        <p>Dojo Location</p>
+        <p id="location">@Model.Location</p>
+    </div>
+    <div class="blocks">
+        <p>Favorite Language</p>
+        <p id="favorite">@Model.Favorite</p>
+    </div>
+    <div class="blocks">
+        <p>Register Date Time</p>
+        <p id="favorite">@Model.RegisterDateTime</p>
+    </div>
+    <div class="blocks blockstextarea">
+        <p>Comment</p>
+        <p id="comment">@Model.Comment</p>
+    </div>
+    <div class="blocks">
+        <button type="button" class="btn1">Back</button>
+    </div>
+</div>

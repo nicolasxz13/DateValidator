@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "iSxLVD8KYRxyscsH+u8SqCKPASMnw6OBHwC/CHnQl4M=",
+  "Source": "DateValidator",
+  "BasePath": "_content/DateValidator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DateValidator\\wwwroot",
+      "Source": "DateValidator",
+      "ContentRoot": "C:\\Users\\nicol\\Desktop\\Bootcamp Coding Dojo c#\\ASP.NET Core\\DateValidator\\wwwroot\\",
+      "BasePath": "_content/DateValidator",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\nicol\\Desktop\\Bootcamp Coding Dojo c#\\ASP.NET Core\\DateValidator\\wwwroot\\css\\styles.css",
+      "SourceId": "DateValidator",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nicol\\Desktop\\Bootcamp Coding Dojo c#\\ASP.NET Core\\DateValidator\\wwwroot\\",
+      "BasePath": "_content/DateValidator",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    }
+  ]
+}
